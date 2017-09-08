@@ -1,6 +1,6 @@
-# y
+# TypeScript & The Vue CLI
 
-> A Vue.js project
+> Using TypeScript with the Vue CLI
 
 ## Build Setup
 
